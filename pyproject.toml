@@ -42,7 +42,7 @@ test = [
   "pylint==2.16.2",
   "pytest==7.2.1",
   "pytest-aiohttp==1.0.4",
-  "pytest-cov==4.0.0",
+  "pytest-cov==4.1.0",
 ]
 
 [project.scripts]
